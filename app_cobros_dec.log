@@ -1,0 +1,320 @@
+05/04/2016 03:05:46 PM INICIO programa
+05/04/2016 03:05:46 PM FIN programa
+05/04/2016 05:14:02 PM INICIO programa
+05/04/2016 05:14:02 PM FIN programa
+05/04/2016 05:29:13 PM INICIO programa
+05/04/2016 05:29:13 PM FIN programa
+05/04/2016 05:29:13 PM Obteniendo documentos a dec3
+05/04/2016 05:31:58 PM INICIO programa
+05/04/2016 05:31:58 PM FIN programa
+05/04/2016 05:31:58 PM Obteniendo documentos a dec3
+05/04/2016 05:33:31 PM INICIO programa
+05/04/2016 05:33:31 PM FIN programa
+05/04/2016 05:33:31 PM Obteniendo documentos a dec3
+05/04/2016 05:35:22 PM INICIO programa
+05/04/2016 05:35:22 PM FIN programa
+05/04/2016 05:35:22 PM Obteniendo documentos a dec3
+05/04/2016 05:37:11 PM INICIO programa
+05/04/2016 05:37:11 PM FIN programa
+05/04/2016 05:37:11 PM Obteniendo documentos a dec3
+05/04/2016 05:37:50 PM INICIO programa
+05/04/2016 05:37:50 PM FIN programa
+05/04/2016 05:37:50 PM Obteniendo documentos a dec3
+05/04/2016 05:50:28 PM INICIO programa
+05/04/2016 05:50:28 PM FIN programa
+05/04/2016 05:50:28 PM Obteniendo documentos a dec3
+05/04/2016 05:51:20 PM INICIO programa
+05/04/2016 05:51:20 PM FIN programa
+05/04/2016 05:51:20 PM Obteniendo documentos a dec3
+05/04/2016 05:51:20 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:51:20 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 05:53:29 PM INICIO programa
+05/04/2016 05:53:29 PM FIN programa
+05/04/2016 05:53:29 PM Obteniendo documentos a dec3
+05/04/2016 05:53:30 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:53:30 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 05:54:08 PM INICIO programa
+05/04/2016 05:54:08 PM FIN programa
+05/04/2016 05:54:08 PM Obteniendo documentos a dec3
+05/04/2016 05:54:08 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:54:09 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 05:54:24 PM INICIO programa
+05/04/2016 05:54:24 PM FIN programa
+05/04/2016 05:54:24 PM Obteniendo documentos a dec3
+05/04/2016 05:54:24 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:54:24 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 05:55:36 PM INICIO programa
+05/04/2016 05:55:36 PM FIN programa
+05/04/2016 05:55:36 PM Obteniendo documentos a dec3
+05/04/2016 05:55:37 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:55:37 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 05:56:54 PM INICIO programa
+05/04/2016 05:56:54 PM FIN programa
+05/04/2016 05:56:54 PM Obteniendo documentos a dec3
+05/04/2016 05:56:55 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 05:56:55 PM Imposible conectar a DEC3 - DArchivos
+05/04/2016 06:05:18 PM INICIO programa
+05/04/2016 06:05:18 PM Obteniendo documentos a dec3
+05/04/2016 06:05:19 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:05:19 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:05:19 PM FIN programa
+05/04/2016 06:07:08 PM INICIO programa
+05/04/2016 06:07:08 PM Obteniendo documentos a dec3
+05/04/2016 06:07:09 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:07:09 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:07:09 PM FIN programa
+05/04/2016 06:10:51 PM INICIO programa
+05/04/2016 06:10:51 PM Obteniendo documentos a dec3
+05/04/2016 06:10:52 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:10:52 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:10:52 PM FIN programa
+05/04/2016 06:15:13 PM INICIO programa
+05/04/2016 06:15:13 PM Obteniendo documentos a dec3
+05/04/2016 06:15:19 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM Resultado: %s
+05/04/2016 06:15:19 PM FIN programa
+05/04/2016 06:15:45 PM INICIO programa
+05/04/2016 06:15:45 PM Obteniendo documentos a dec3
+05/04/2016 06:15:46 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:15:46 PM Resultado: S3801D55AB7AUD
+05/04/2016 06:15:46 PM Resultado: S3801E54E61AUD
+05/04/2016 06:15:46 PM Resultado: S3801F23BBAAUD
+05/04/2016 06:15:46 PM Resultado: S3801F2CE31AUD
+05/04/2016 06:15:46 PM Resultado: S3801F3DC18AUD
+05/04/2016 06:15:46 PM Resultado: S3801F3E46BAUD
+05/04/2016 06:15:46 PM Resultado: S3801F95014AUD
+05/04/2016 06:15:46 PM Resultado: S3801FF31D0AUD
+05/04/2016 06:15:46 PM FIN programa
+05/04/2016 06:16:08 PM INICIO programa
+05/04/2016 06:16:08 PM Obteniendo documentos a dec3
+05/04/2016 06:16:09 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:16:09 PM Resultado: S3801D55AB7AUD
+05/04/2016 06:16:09 PM Resultado: S3801E54E61AUD
+05/04/2016 06:16:09 PM Resultado: S3801F23BBAAUD
+05/04/2016 06:16:09 PM Resultado: S3801F2CE31AUD
+05/04/2016 06:16:09 PM Resultado: S3801F3DC18AUD
+05/04/2016 06:16:09 PM Resultado: S3801F3E46BAUD
+05/04/2016 06:16:09 PM Resultado: S3801F95014AUD
+05/04/2016 06:16:09 PM Resultado: S3801FF31D0AUD
+05/04/2016 06:16:09 PM FIN programa
+05/04/2016 06:29:14 PM INICIO programa
+05/04/2016 06:29:14 PM Obteniendo documentos a dec3
+05/04/2016 06:29:16 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:29:16 PM S3801D55AB7AUD
+05/04/2016 06:29:16 PM S3801E54E61AUD
+05/04/2016 06:29:16 PM S3801F23BBAAUD
+05/04/2016 06:29:16 PM S3801F2CE31AUD
+05/04/2016 06:29:16 PM S3801F3DC18AUD
+05/04/2016 06:29:16 PM S3801F3E46BAUD
+05/04/2016 06:29:16 PM S3801F95014AUD
+05/04/2016 06:29:16 PM S3801FF31D0AUD
+05/04/2016 06:29:16 PM FIN programa
+05/04/2016 06:38:57 PM INICIO programa
+05/04/2016 06:38:57 PM Obteniendo documentos a dec3
+05/04/2016 06:38:58 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:38:58 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:38:58 PM FIN programa
+05/04/2016 06:40:30 PM INICIO programa
+05/04/2016 06:40:30 PM Obteniendo documentos a dec3
+05/04/2016 06:40:31 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:40:31 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:40:31 PM FIN programa
+05/04/2016 06:41:01 PM INICIO programa
+05/04/2016 06:41:01 PM Obteniendo documentos a dec3
+05/04/2016 06:41:01 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:41:01 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:41:01 PM FIN programa
+05/04/2016 06:42:04 PM INICIO programa
+05/04/2016 06:42:04 PM Obteniendo documentos a dec3
+05/04/2016 06:42:04 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/04/2016 06:42:04 PM Imposible Ejecutar query DArchivos
+05/04/2016 06:42:04 PM FIN programa
+05/05/2016 10:31:22 AM INICIO programa
+05/05/2016 10:31:22 AM Obteniendo documentos a dec3
+05/05/2016 10:31:23 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/05/2016 10:31:23 AM FIN programa
+05/05/2016 10:31:48 AM INICIO programa
+05/05/2016 10:31:48 AM Obteniendo documentos a dec3
+05/05/2016 10:31:49 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/05/2016 10:31:49 AM Imposible Ejecutar query DArchivos
+05/05/2016 10:31:49 AM FIN programa
+05/06/2016 08:12:27 AM INICIO programa
+05/06/2016 08:12:27 AM Obteniendo documentos a dec3
+05/06/2016 08:12:28 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:12:28 AM FIN programa
+05/06/2016 08:13:10 AM INICIO programa
+05/06/2016 08:13:10 AM Obteniendo documentos a dec3
+05/06/2016 08:13:11 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:13:11 AM Imposible Ejecutar query DArchivos
+05/06/2016 08:13:11 AM FIN programa
+05/06/2016 08:29:09 AM INICIO programa
+05/06/2016 08:29:09 AM Obteniendo documentos a dec3
+05/06/2016 08:29:10 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:29:10 AM FIN programa
+05/06/2016 08:31:50 AM INICIO programa
+05/06/2016 08:31:50 AM Obteniendo documentos a dec3
+05/06/2016 08:31:51 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:31:51 AM Imposible Ejecutar query DArchivos
+05/06/2016 08:31:51 AM FIN programa
+05/06/2016 08:32:19 AM INICIO programa
+05/06/2016 08:32:19 AM Obteniendo documentos a dec3
+05/06/2016 08:32:20 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:32:20 AM Imposible Ejecutar query DArchivos
+05/06/2016 08:32:20 AM FIN programa
+05/06/2016 08:57:04 AM INICIO programa
+05/06/2016 08:57:04 AM Obteniendo documentos a dec3
+05/06/2016 08:57:05 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:57:05 AM Imposible Ejecutar query DArchivos
+05/06/2016 08:57:05 AM FIN programa
+05/06/2016 08:58:31 AM INICIO programa
+05/06/2016 08:58:31 AM Obteniendo documentos a dec3
+05/06/2016 08:58:32 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 08:58:32 AM Imposible Ejecutar query DArchivos
+05/06/2016 08:58:32 AM FIN programa
+05/06/2016 09:00:26 AM INICIO programa
+05/06/2016 09:00:26 AM Obteniendo documentos a dec3
+05/06/2016 09:00:27 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 09:00:27 AM FIN programa
+05/06/2016 09:00:39 AM INICIO programa
+05/06/2016 09:00:39 AM Obteniendo documentos a dec3
+05/06/2016 09:00:39 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 09:00:39 AM FIN programa
+05/06/2016 09:02:22 AM INICIO programa
+05/06/2016 09:02:22 AM Obteniendo documentos a dec3
+05/06/2016 09:02:23 AM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 09:02:23 AM FIN programa
+05/06/2016 09:23:34 AM INICIO programa
+05/06/2016 09:23:34 AM Obteniendo documentos a dec3
+05/06/2016 09:25:05 AM INICIO programa
+05/06/2016 09:25:05 AM Obteniendo documentos a dec3
+05/06/2016 02:10:45 PM INICIO programa
+05/06/2016 02:10:45 PM Obteniendo documentos a dec3
+05/06/2016 02:11:38 PM INICIO programa
+05/06/2016 02:11:38 PM Obteniendo documentos a dec3
+05/06/2016 02:13:12 PM INICIO programa
+05/06/2016 02:13:12 PM Obteniendo documentos a dec3
+05/06/2016 02:14:44 PM INICIO programa
+05/06/2016 02:14:44 PM Obteniendo documentos a dec3
+05/06/2016 02:14:45 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:14:45 PM FIN programa
+05/06/2016 02:23:46 PM INICIO programa
+05/06/2016 02:23:46 PM Obteniendo documentos a dec3
+05/06/2016 02:24:11 PM INICIO programa
+05/06/2016 02:24:11 PM Obteniendo documentos a dec3
+05/06/2016 02:24:32 PM INICIO programa
+05/06/2016 02:24:32 PM Obteniendo documentos a dec3
+05/06/2016 02:24:33 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:24:33 PM FIN programa
+05/06/2016 02:29:33 PM INICIO programa
+05/06/2016 02:29:33 PM Obteniendo documentos a dec3
+05/06/2016 02:29:33 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:29:33 PM Imposible Ejecutar query DArchivos
+05/06/2016 02:29:33 PM FIN programa
+05/06/2016 02:29:52 PM INICIO programa
+05/06/2016 02:29:52 PM Obteniendo documentos a dec3
+05/06/2016 02:29:53 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:29:53 PM Imposible Ejecutar query DArchivos
+05/06/2016 02:29:53 PM FIN programa
+05/06/2016 02:30:44 PM INICIO programa
+05/06/2016 02:30:44 PM Obteniendo documentos a dec3
+05/06/2016 02:30:46 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:30:46 PM FIN programa
+05/06/2016 02:41:45 PM INICIO programa
+05/06/2016 02:41:45 PM Obteniendo documentos a dec3
+05/06/2016 02:41:46 PM Ejecutando query: select * from DArchivos where Institucion = 'AUTENTIA'
+05/06/2016 02:41:46 PM FIN programa
+05/06/2016 02:49:29 PM INICIO programa
+05/06/2016 02:49:29 PM Obteniendo documentos a dec3
+05/06/2016 02:49:30 PM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.FechaFirma,f.RolFirmante from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.Institucion = 'AUTENTIA'
+05/06/2016 02:49:30 PM Imposible Ejecutar query DArchivos
+05/06/2016 02:49:30 PM FIN programa
+05/06/2016 02:51:17 PM INICIO programa
+05/06/2016 02:51:17 PM Obteniendo documentos a dec3
+05/06/2016 02:51:18 PM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.FechaFirma,f.RolFirmante from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.Institucion = 'AUTENTIA'
+05/06/2016 02:51:18 PM Imposible Ejecutar query DArchivos
+05/06/2016 02:51:18 PM FIN programa
+05/06/2016 03:15:09 PM INICIO programa
+05/06/2016 03:15:09 PM Obteniendo documentos a dec3
+05/06/2016 03:15:10 PM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.RolFirmante from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.Institucion = 'AUTENTIA'
+05/06/2016 03:15:10 PM FIN programa
+05/06/2016 03:17:40 PM INICIO programa
+05/06/2016 03:17:40 PM Obteniendo documentos a dec3
+05/06/2016 03:17:41 PM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.RolFirmante from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.Institucion = 'AUTENTIA'
+05/06/2016 03:17:41 PM FIN programa
+05/09/2016 08:35:52 AM INICIO programa
+05/09/2016 08:35:52 AM Obteniendo documentos dec3
+05/09/2016 08:36:57 AM Imposible Ejecutar query DArchivos
+05/09/2016 08:36:57 AM FIN programa
+05/09/2016 10:23:22 AM INICIO programa
+05/09/2016 10:23:22 AM Obteniendo documentos dec3
+05/09/2016 10:23:22 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:23:22 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:23:22 AM FIN programa
+05/09/2016 10:24:36 AM INICIO programa
+05/09/2016 10:24:36 AM Obteniendo documentos dec3
+05/09/2016 10:24:36 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:24:36 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:24:36 AM FIN programa
+05/09/2016 10:24:53 AM INICIO programa
+05/09/2016 10:24:53 AM Obteniendo documentos dec3
+05/09/2016 10:24:53 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:24:54 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:24:54 AM FIN programa
+05/09/2016 10:25:24 AM INICIO programa
+05/09/2016 10:25:24 AM Obteniendo documentos dec3
+05/09/2016 10:25:24 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:25:25 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:25:25 AM FIN programa
+05/09/2016 10:28:13 AM INICIO programa
+05/09/2016 10:28:13 AM Obteniendo documentos dec3
+05/09/2016 10:28:13 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:28:13 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:28:13 AM FIN programa
+05/09/2016 10:31:15 AM INICIO programa
+05/09/2016 10:31:15 AM Obteniendo documentos dec3
+05/09/2016 10:31:15 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:31:15 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:31:15 AM FIN programa
+05/09/2016 10:32:14 AM INICIO programa
+05/09/2016 10:32:14 AM Obteniendo documentos dec3
+05/09/2016 10:32:14 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:32:14 AM Imposible Ejecutar query DArchivos
+05/09/2016 10:32:14 AM FIN programa
+05/09/2016 10:33:47 AM INICIO programa
+05/09/2016 10:33:47 AM Obteniendo documentos dec3
+05/09/2016 10:33:47 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:34:11 AM INICIO programa
+05/09/2016 10:34:11 AM Obteniendo documentos dec3
+05/09/2016 10:34:11 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:34:34 AM INICIO programa
+05/09/2016 10:34:34 AM Obteniendo documentos dec3
+05/09/2016 10:34:34 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:34:35 AM Imposible Ejecutar query DArchivos <class 'pymysql.err.InternalError'>
+05/09/2016 10:34:35 AM FIN programa
+05/09/2016 10:35:21 AM INICIO programa
+05/09/2016 10:35:21 AM Obteniendo documentos dec3
+05/09/2016 10:35:21 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:35:22 AM Imposible Ejecutar query DArchivos (<class 'pymysql.err.InternalError'>, InternalError(1052, "Column 'Institucion' in where clause is ambiguous"), <traceback object at 0x7f1bd379d0c8>)
+05/09/2016 10:35:22 AM FIN programa
+05/09/2016 10:35:52 AM INICIO programa
+05/09/2016 10:35:52 AM Obteniendo documentos dec3
+05/09/2016 10:35:52 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:35:53 AM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.RolFirmante,a.Institucion from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.FechaCreacion between '2016-05-08' and '2016-05-09' and a.Institucion = 'AUTENTIA'
+05/09/2016 10:35:53 AM FIN programa
+05/09/2016 10:37:39 AM INICIO programa
+05/09/2016 10:37:39 AM Obteniendo documentos dec3
+05/09/2016 10:37:39 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:37:39 AM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.RolFirmante,a.Institucion from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.FechaCreacion between '2016-05-08' and '2016-05-09' and a.Institucion = 'AUTENTIA'
+05/09/2016 10:37:39 AM FIN programa
+05/09/2016 10:38:09 AM INICIO programa
+05/09/2016 10:38:09 AM Obteniendo documentos dec3
+05/09/2016 10:38:09 AM Abriendo conexion a ddbb: decv3.chlauzwqvh02.sa-east-1.rds.amazonaws.com
+05/09/2016 10:38:10 AM Ejecutando query: select a.Descripcion,a.Codigo,f.FechaFirma,f.Rut,f.NroAudit,f.RolFirmante,a.Institucion from DArchivos as a,DFirmantes as f where a.Codigo = f.CodigoArchivo and a.FechaCreacion between '2016-05-08' and '2016-05-09' and a.Institucion = 'AUTENTIA'
+05/09/2016 10:38:10 AM FIN programa
