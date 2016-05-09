@@ -1,5 +1,7 @@
 #!/opt/python3/bin/python3
 
+# no se necesita, ocupar logging directamente
+
 import datetime
 import logging
 
